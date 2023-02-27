@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/folds/static/js/main.ca16bb44.js",
+    "static/media/world.glb": "/folds/static/media/world.a0d68a492837f2b4d61c.glb",
+    "index.html": "/folds/index.html",
+    "main.ca16bb44.js.map": "/folds/static/js/main.ca16bb44.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ca16bb44.js"
+  ]
+}
